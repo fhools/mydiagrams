@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T01:15:52.101Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="XVQ7X__Iqxo_J9mexIWG" type="github"><diagram id="lG9JBDdLqdkO_Na0r8hj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-09T01:22:24.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="voYdLZhWKG3QWe_NFLLC" type="github">
+  <diagram id="TulGmnIhFXb1uMSoldKo" name="Page-1">
+    <mxGraphModel dx="1570" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-1" value="Firedancer Component 1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-15" value="Existing Solana Codebase&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="430" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-16" value="Firedancer Component 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-17" value="Firedancer Component 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-18" value="Firedancer Component 5&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-20" value="Firedancer Component 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="325" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-23" value="Old Solana Component&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rZdBPM_HqJDfRuE-IL3N-1" target="rZdBPM_HqJDfRuE-IL3N-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-24" value="Firedancer components will incrementally replace Solana component&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="30" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-26" value="Old Solana Component&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="250" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-27" value="Old Solana Component&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-28" value="Old Solana Component&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rZdBPM_HqJDfRuE-IL3N-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rZdBPM_HqJDfRuE-IL3N-16" target="rZdBPM_HqJDfRuE-IL3N-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
